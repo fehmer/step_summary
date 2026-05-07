@@ -1,5 +1,6 @@
 {
   "name": "step_summary",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,5 +10,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.28.1"
+  "packageManager": "pnpm@10.28.1",
+  "devDependencies": {
+    "@actions/core": "^3.0.1"
+  }
 }

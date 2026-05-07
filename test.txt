@@ -1,1 +1,4 @@
-# Hello from summary
+# Hello from summary<h1>Test Results</h1>
+<table><tr><th><th>File</th><th>Result</th></tr><tr><td>Pass ✅</td><td><td></tr><tr><td>Fail ❌</td><td>click15/1.wav</td><td>additional file</td></tr><tr><td>Fail ❌</td><td>click15/2.wav</td><td>missing file</td></tr></table>
+<h1>Test Results</h1>
+<table><tr><th><th>File</th><th>Result</th></tr><tr><td>Pass ✅</td><td><td></tr><tr><td>Fail ❌</td><td>click15/1.wav</td><td>additional file</td></tr><tr><td>Fail ❌</td><td>click15/2.wav</td><td>missing file</td></tr></table>
